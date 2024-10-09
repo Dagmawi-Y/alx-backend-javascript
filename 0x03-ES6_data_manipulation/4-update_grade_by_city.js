@@ -24,7 +24,9 @@ export default function updateStudentGradeByCity(students, city, newGrades) {
         (grade) => grade.studentId === student.id
       );
       return {
-        ...student,
+        id: student.id,
+        firstName: student.firstName,
+        location: student.location,
         grade: newGrade ? newGrade.grade : 'N/A',
       };
     });
