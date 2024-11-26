@@ -27,5 +27,5 @@ This project focuses on TypeScript, a typed superset of JavaScript that compiles
 
 - `dist/`: Compiled JavaScript files.
 
-## Author
+## author Dagmawi Y
 - Dagmawi Yohannes

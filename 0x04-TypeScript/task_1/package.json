@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author Dagmawi Y": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.5.2",

@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author Dagmawi Y": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.5.2",
